@@ -1,0 +1,1701 @@
+The currently used HEaaN library does not support GPU acceleration
+a :  0.5064124613915053
+plain text result
+1
+ciphertext :  12
+
+===========================================================
+
+***************** ciphertext a level :  12 ***********************
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+time list :  [8.445050477981567, 8.373427629470825, 8.868629455566406, 8.63968300819397, 8.732442855834961, 8.709496021270752, 8.56033182144165, 8.680597305297852, 8.941426038742065, 8.481756448745728, 8.672198057174683, 8.878684759140015, 8.76246452331543, 8.821899890899658, 8.733723640441895, 8.696401119232178, 8.713621854782104, 8.400862455368042, 8.35246205329895, 8.349656343460083, 8.394847869873047, 8.375120878219604, 8.805035591125488, 8.750799894332886, 8.716434478759766, 8.76248288154602, 8.80787706375122, 8.439036846160889, 8.806514501571655, 8.62799072265625, 8.8670334815979]
+avg time :  8650.58032
+after ciphertext level 12
+first ciphertext :  12
+
+ ──────────────────────────────────────────────────────────
+
+***************** ciphertext a level :  12 ***********************
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+time list :  [8.630785942077637, 8.685643196105957, 8.722565174102783, 8.735827684402466, 8.51289415359497, 8.806796550750732, 8.631388187408447, 8.784972429275513, 8.689270496368408, 8.633971691131592, 8.5727379322052, 8.555766582489014, 8.639284133911133, 8.58506178855896, 8.577500581741333, 8.615525245666504, 8.761169910430908, 8.708529472351074, 8.421119213104248, 8.478503227233887, 8.761619567871094, 8.40316915512085, 8.37647032737732, 8.639822721481323, 8.412259340286255, 8.376115798950195, 8.614473581314087, 8.805176258087158, 8.782119035720825, 8.739775896072388, 8.823669672012329]
+avg time :  8628.51564
+after ciphertext level 11
+first ciphertext :  12
+
+ ──────────────────────────────────────────────────────────
+
+***************** ciphertext a level :  12 ***********************
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+time list :  [8.892300367355347, 8.770629405975342, 8.719462156295776, 8.846137762069702, 8.495180130004883, 8.432377099990845, 8.390390872955322, 8.825289964675903, 8.516494989395142, 8.644423484802246, 8.57951807975769, 8.82790756225586, 8.700127601623535, 8.767464637756348, 8.718183517456055, 8.695102214813232, 8.768369436264038, 8.77573847770691, 8.84842300415039, 8.840261697769165, 8.639598369598389, 8.593443632125854, 8.804088115692139, 8.655217170715332, 8.769143104553223, 8.8803129196167, 8.718127965927124, 8.72611379623413, 8.753700494766235, 8.755187511444092, 8.851150035858154]
+avg time :  8716.1247
+after ciphertext level 10
+first ciphertext :  12
+
+ ──────────────────────────────────────────────────────────
+
+***************** ciphertext a level :  12 ***********************
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+time list :  [8.721294403076172, 8.690752267837524, 8.666601419448853, 8.685216665267944, 8.681747913360596, 8.70665431022644, 8.698253870010376, 8.829378366470337, 8.830998659133911, 8.600373983383179, 8.435342788696289, 8.830140829086304, 8.6705904006958, 8.748111248016357, 8.89915156364441, 8.665122747421265, 8.778772115707397, 8.814321994781494, 8.455475091934204, 8.913089990615845, 8.823372840881348, 8.838534593582153, 8.83954644203186, 8.856947898864746, 8.928072690963745, 8.571934223175049, 8.569977283477783, 8.78439211845398, 8.710754632949829, 8.714484930038452, 8.679058074951172]
+avg time :  8730.27311
+after ciphertext level 9
+first ciphertext :  12
+
+ ──────────────────────────────────────────────────────────
+
+***************** ciphertext a level :  12 ***********************
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+time list :  [8.792266845703125, 8.585142374038696, 8.65346622467041, 8.754652738571167, 8.739629745483398, 8.593431949615479, 8.403793573379517, 8.440301656723022, 8.440369606018066, 8.4229097366333, 8.396849393844604, 8.35829496383667, 8.53172492980957, 8.631216764450073, 8.623131036758423, 8.747222423553467, 8.597316265106201, 8.412353515625, 8.744117975234985, 8.675545692443848, 8.773894548416138, 8.592820167541504, 8.65226125717163, 8.374969482421875, 8.371994972229004, 8.751234769821167, 8.755939245223999, 8.479159116744995, 8.705718040466309, 8.432307004928589, 8.682907581329346]
+avg time :  8584.41754
+after ciphertext level 8
+first ciphertext :  12
+
+ ──────────────────────────────────────────────────────────
+
+***************** ciphertext a level :  12 ***********************
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+time list :  [8.404970169067383, 8.440533876419067, 8.452282190322876, 8.435205936431885, 8.627350807189941, 8.64153528213501, 8.623892545700073, 8.441779375076294, 8.590405464172363, 8.576691150665283, 8.703840017318726, 8.841850757598877, 8.742662906646729, 8.567995309829712, 8.777027368545532, 8.841045141220093, 8.810282468795776, 8.590463876724243, 8.838846445083618, 8.699368000030518, 8.431242942810059, 8.40497875213623, 8.563111305236816, 8.765581846237183, 8.763684034347534, 8.703819990158081, 8.686784029006958, 8.695036172866821, 8.645729064941406, 8.563103914260864, 8.425473928451538]
+avg time :  8622.47016
+after ciphertext level 7
+first ciphertext :  12
+
+ ──────────────────────────────────────────────────────────
+
+***************** ciphertext a level :  12 ***********************
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+time list :  [8.43543553352356, 8.455116987228394, 8.499962568283081, 8.454700946807861, 8.473766803741455, 8.483396768569946, 8.411741018295288, 8.445006847381592, 8.491622924804688, 8.453036308288574, 8.664689779281616, 8.465754270553589, 8.565487146377563, 8.447746753692627, 8.43604564666748, 8.553977727890015, 8.585610628128052, 8.666613340377808, 8.64121413230896, 8.676299333572388, 8.634860515594482, 8.596567153930664, 8.483936548233032, 8.445192575454712, 8.696264028549194, 8.437838077545166, 8.46941328048706, 8.403758525848389, 8.407811880111694, 8.41576361656189, 8.409834623336792]
+avg time :  8506.72472
+after ciphertext level 6
+first ciphertext :  12
+
+ ──────────────────────────────────────────────────────────
+
+***************** ciphertext a level :  12 ***********************
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+time list :  [8.440287113189697, 8.541456460952759, 8.4383864402771, 8.42982268333435, 8.415657758712769, 8.442948579788208, 8.450241565704346, 8.450181484222412, 8.395028591156006, 8.373823404312134, 8.402088165283203, 8.396013259887695, 8.383129835128784, 8.410347938537598, 8.405218124389648, 8.399353504180908, 8.406314134597778, 8.404935836791992, 8.383418321609497, 8.40019965171814, 8.409456253051758, 8.431368112564087, 8.42026686668396, 8.384079933166504, 8.3563814163208, 8.402684926986694, 8.418620824813843, 8.394337177276611, 8.425518274307251, 8.40987253189087, 8.42210602760315]
+avg time :  8414.30791
+after ciphertext level 5
+first ciphertext :  12
+
+ ──────────────────────────────────────────────────────────
+
+***************** ciphertext a level :  12 ***********************
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+time list :  [8.764519214630127, 8.885035276412964, 8.63011622428894, 8.862367391586304, 8.742916345596313, 8.415346384048462, 8.37203574180603, 8.379775285720825, 8.375168561935425, 8.349714756011963, 8.390604972839355, 8.504037141799927, 8.683425426483154, 8.789660215377808, 8.725262880325317, 8.836578845977783, 8.753858804702759, 8.757049560546875, 8.747888803482056, 8.837095022201538, 8.67486047744751, 8.37106728553772, 8.678900957107544, 8.763989210128784, 8.715494394302368, 8.668135166168213, 8.848271608352661, 8.88508152961731, 8.558568477630615, 8.381361722946167, 8.347971439361572]
+avg time :  8635.35997
+after ciphertext level 4
+first ciphertext :  12
+
+ ──────────────────────────────────────────────────────────
+
+***************** ciphertext a level :  12 ***********************
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+time list :  [8.383767127990723, 8.35233736038208, 8.380945205688477, 8.380309820175171, 8.419020175933838, 8.393693923950195, 8.403198003768921, 8.358232259750366, 8.39292287826538, 8.415976762771606, 8.415164470672607, 8.364286661148071, 8.35205602645874, 8.349460363388062, 8.376726388931274, 8.378106355667114, 8.370087623596191, 8.39489459991455, 8.351971864700317, 8.386993646621704, 8.3854398727417, 8.391270637512207, 8.381853818893433, 8.356893301010132, 8.372603178024292, 8.432289600372314, 8.420601844787598, 8.406176567077637, 8.416335344314575, 8.422014951705933, 8.434041738510132]
+avg time :  8388.37653
+after ciphertext level 3
+first ciphertext :  12
+
+ ──────────────────────────────────────────────────────────
+
+***************** ciphertext a level :  12 ***********************
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+time list :  [9.040375232696533, 8.798352718353271, 8.94959044456482, 8.69298005104065, 8.60261869430542, 8.603488206863403, 9.102613925933838, 8.889800786972046, 8.947773933410645, 8.446844577789307, 8.832451820373535, 8.7749183177948, 8.736955881118774, 8.733959197998047, 8.735439777374268, 8.468412160873413, 8.943601131439209, 8.85588526725769, 8.44425106048584, 8.870142698287964, 8.733901262283325, 8.635216236114502, 8.389608383178711, 8.364600896835327, 8.382837772369385, 8.408013820648193, 8.448919296264648, 8.439026594161987, 8.411200761795044, 8.506696462631226, 8.786441564559937]
+avg time :  8676.6748
+after ciphertext level 2
+first ciphertext :  12
+
+ ──────────────────────────────────────────────────────────
+
+***************** ciphertext a level :  12 ***********************
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+====== Noist check part =====
+plain :  1
+res_ctxt :  (1.0000000007760892+8.520869418370266e-10j)
+test result 7.76e-10
+time list :  [8.456592559814453, 8.470349550247192, 8.678938150405884, 8.683861017227173, 8.701215744018555, 8.408504724502563, 8.48314380645752, 8.970909595489502, 8.680381536483765, 8.972761631011963, 8.918333530426025, 8.685719013214111, 8.379562616348267, 8.380051612854004, 8.40123176574707, 8.592400789260864, 8.436570644378662, 8.594672918319702, 8.946616172790527, 8.480244636535645, 8.564859867095947, 8.72576904296875, 8.795420408248901, 8.765931367874146, 8.781919956207275, 8.789074182510376, 8.755793809890747, 8.859519958496094, 8.902446746826172, 8.763070106506348, 8.419239282608032]
+avg time :  8659.51957
+after ciphertext level 1
+first ciphertext :  12
+
+ ──────────────────────────────────────────────────────────
+
+레벨 단위 : ms
+8650.58032
+8628.51564
+8716.1247
+8730.27311
+8584.41754
+8622.47016
+8506.72472
+8414.30791
+8635.35997
+8388.37653
+8676.6748
+8659.51957
