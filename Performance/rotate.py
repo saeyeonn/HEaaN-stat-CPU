@@ -47,7 +47,7 @@ m_block = heaan.Block(context, encrypted = False, data = [1] * num_slot)
 
 
 
-print('first ciphertext : ',a_ctxt.level)
+print('first ciphertext : ', a_ctxt.level)
 
 print()
 print('===========================================================')
@@ -56,6 +56,9 @@ print()
 level_list = []
 for i in range(12, 0, -1):
     
+    a_ctxt = heaan.Block(context, encrypted = False, data = a_list)
+    a_ctxt.encrypt()
+
     print('***************** ciphertext a level : ', a_ctxt.level, '***********************')
     time_list = []
     for j in range(33):

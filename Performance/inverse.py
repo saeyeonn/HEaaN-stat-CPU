@@ -56,6 +56,8 @@ print()
 
 level_list = []
 for i in range(12, 0, -1):
+    a_ctxt = heaan.Block(context, encrypted = False, data = a_list)
+    a_ctxt.encrypt()
     
     print('***************** ciphertext a level : ', a_ctxt.level, '***********************')
     time_list = []
