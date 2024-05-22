@@ -206,14 +206,14 @@ ctxt_beta = heaan.Block(context, encrypted = False, data = msg_beta)
 ctxt_beta = ctxt_beta.encrypt()
 
 learning_rate = 0.28
-num_steps = 10
+num_steps = 100
 
 # Training the model in HE
 start_time_train_he = time.time()
 for i in range(num_steps):
     print("=== HE Step", i, "===")
-    ctxt_next = step(learning_rate, ctxt_X, ctxt_Y, ctxt_next, train_n)
-    beta_ctxt = ctxt_next
+    result_ctxt = step(learning_rate, ctxt_X, ctxt_Y, ctxt_beta, train_n)
+    beta_ctxt = result_ctxt
     beta_ctxt.decrypt()
     for j in range(10):
         print("ctxt beta : ", beta_ctxt[j])
